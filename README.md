@@ -36,5 +36,10 @@ Please instal nlptk for textblob
 
 [14] Area Covered by Pictures
 
+# Methodology
 
+![image](https://user-images.githubusercontent.com/93111418/210821354-5af16f11-e179-40f8-8ea0-d05653a3182b.png)
 
+# Algorithm/Flowchart
+
+![image](https://user-images.githubusercontent.com/93111418/210821713-7033f7ba-bb7a-41ff-9a49-00f80f1f9796.png)
