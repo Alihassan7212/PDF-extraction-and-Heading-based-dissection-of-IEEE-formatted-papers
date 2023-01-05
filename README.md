@@ -33,6 +33,8 @@ Please instal nlptk for textblob
 
 [13] Reduce Image size
 
+
 [14] Area Covered by Pictures
+
 
 
